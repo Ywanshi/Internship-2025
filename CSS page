@@ -1,0 +1,27 @@
+<html>
+<head>
+<title></title>
+<style>
+
+body{
+    background-color:lightblue;
+}
+
+h1{
+    color:white;
+}
+
+p{
+    font-size:20px;
+    font-family:Arial, sans-serif;
+}
+</style>
+
+</head>
+
+<body>
+<h1 align="center"> My First CSS example</h1>
+<p>CSS is stands for Cascading Style Sheet.<br> CSS is a language we use to style web pages.<br>
+It describes how the HTML elements are to be display on the screen or other multimedia.</p>
+</body>
+</html>
