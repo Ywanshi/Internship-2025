@@ -1,0 +1,96 @@
+<html>
+<head>
+<style>
+table {
+	font-family:arial,sans-serif;
+	border-collapse:collapse;
+	width:100%;
+}
+
+td,th {
+	border:1px solid #dddddd;
+	text-align:left;
+	padding:8px;
+}
+
+tr:nth-child(even) {
+	background-color:#dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2> HTML Table </h2>
+
+<table>
+	<tr>
+	<th> Serial no. </th>
+	<th>Books Subject </th>
+	<th> Books name </th>
+	<th> Books Link </th>
+	</tr>
+	<tr>
+	<td> 1. </td>
+	<td> Maths </td>
+	<Td> Owswal </td>
+	<td> <a href="https://oswalpublishers.com/ncert-books/ncert-maths-book-class-10/"> Click here </a> </td>
+	</tr>
+	<tr>
+	<td> 2. </td>
+	<td> Hindi </td>
+	<Td> Shijit  </td>
+	<td> <a href="https://www.jagranjosh.com/articles/ncert-book-class-9-hindi-kshitij-pdf-1600717588-1"> Click here </a> </td>
+	</tr>
+	<tr>
+	<td> 3. </td>
+	<td>  English </td>
+	<Td> Beehive  </td>
+	<td> <a href="https://www.ncertbooks.co.in/2021/09/ncert-class-9-english-beehive-textbook.html"> Click here </a> </td>
+	</tr>
+	<tr>
+	<td> 4. </td>
+	<td> Social Science </td>
+	<Td>  Life-II </td>
+	<td> <a href="https://ncert.nic.in/textbook.php?gess3=0-9"> Click here </a> </td>
+	</tr>
+	<tr>
+	<td> 5. </td>
+	<td> Science </td>
+	<Td>  NCERT </td>
+	<td> <a href="https://ncert.nic.in/textbook.php?iesc1=0-13"> Click here </a> </td>
+	</tr>
+	<tr>
+	<td> 6. </td>
+	<td> Sanskrit </td>
+	<Td>  NCERT </td>
+	<td> <a href="https://www.ncertbooks.guru/ncert-sanskrit-books/"> Click here </a> </td>
+	</tr>
+	<tr>
+	<td> 7. </td>
+	<td> Maths </td>
+	<Td>  NCERT </td>
+	<td> <a href="https://ncert.nic.in/textbook.php?iemh1=0-15"> Click here </a> </td>
+	</tr>
+	<tr>
+	<td> 8. </td>
+	<td> Scisnce </td>
+	<Td>  Oswaal </td>
+	<td> <a href="https://oswalpublishers.com/ncert-books/ncert-science-book-class-9/"> Click here </a> </td>
+	</tr>
+	<tr>
+	<td> 9. </td>
+	<td> Social Science </td>
+	<Td>  Oswaal </td>
+	<td> <a href="https://oswalpublishers.com/"> Click here </a> </td>
+	</tr>
+	<tr>
+	<td> 10. </td>
+	<td> English </td>
+	<Td>  Oswaal </td>
+	<td> <a href="https://oswalpublishers.com/"> Click here </a> </td>
+	</tr>
+	
+</table>
+
+</body>
+</html>
