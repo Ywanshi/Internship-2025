@@ -1,0 +1,93 @@
+<html>
+<head>
+<style>
+body {
+        font-family:Arial, sans-serif;
+        margin: 0;
+        padding: 0;  
+        background-color: #f8f8f8;
+}
+
+header {
+        background-color: #6a1b9a;
+        color: #ffffff;
+        text-align: center;
+        padding: 1em 0;
+}
+
+header nav ul {
+        list-style: none;
+        padding: 0;
+}
+
+header nav ul li {
+        display: inline;
+        margin: 0 15px;
+}
+
+header nav ul li a {
+        color: #ffffff;
+        text-decoration: none;
+        font-weight: bold;
+}
+
+main {
+        margin: 20px;
+        background-color: #ffffff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+article {
+        margin-bottom: 40px;
+        padding-bottom: 20px;
+        border-bottom: 1px solid #eeeeee;
+}
+
+article h2 {
+        color: #333333;
+        margin-botton: 10px;
+}
+
+article p {
+        color: #666666;
+        line-height: 1.6;
+}
+
+footer {
+        background-color: #6a1b9a;
+        color: #ffffff;
+        align-text: center;
+        padding: 1em 0;
+}
+
+</style>
+</head>
+<body>
+<header>
+<h1> My Blog </h1>
+<nav>
+<ul>
+<li><a href="#"> Home</a></li>
+<li><a href="#"> About</a></li>
+<li><a href="#"> Contact</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<article>
+<h2>Blog post title</h2>
+<p> Content of the first blog post...</p>
+</article>
+<article>
+<h2> Another blog post</h2>
+<p>Content of the second blog post...</p>
+</article>
+</main>
+<footer>
+<p> 2023 My Simple Blog </p>
+</footer>
+
+</body>
+</html>
