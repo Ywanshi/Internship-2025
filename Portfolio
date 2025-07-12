@@ -1,0 +1,75 @@
+<html>
+<head>
+<style>
+body {
+        font-family: Arial, sans-sarif;
+}
+
+header {
+        text-align: center;
+        padding: 10px;
+        background-color: f4f4f4;
+}
+
+header img {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        margin-border: 10px;
+}
+
+section {
+        margin: 20px;
+}
+
+project {
+        width: 200px;
+        height: 200px;
+        border: 1px solid #ccc;
+        margin: 10px;
+        display: inline-block;
+        text-align: center;
+        line height: 200px;
+}
+
+h1, h2 {
+        color: #333;
+}
+
+#bio, #work {
+        background-color: #e9e9e9;
+        padding: 15px;
+}
+
+footer {
+        background-color: f4f4f4;
+        text-align: center;
+        padding: 10px;
+}
+</style>
+</head>
+<body>
+<header>
+<img src="C:\Users\Dell\Pictures/mine1.jpg">
+
+<h1> Yuvanshi </h1>
+<p> Teacher </p>
+</header>
+
+<section id="bio">
+<h2> About me </h2>
+<p><a href="C:\Users\Dell\Desktop/Biography1.html"> Biography </a></p>
+</section>
+
+<section id="work">
+<h2> My work </h2>
+<p><a href="C:\Users\Dell\Desktop/mathematics1.html"> Mathematics </a></p>
+<p><a href="C:\Users\Dell\Desktop/English1.html"> English </a></p>
+<p><a href="C:\Users\Dell\Desktop/IT1.html"> Information Technology </a></p>
+</section>
+
+<footer>
+<p> Contact me at [ yuvanshisuryavanshi@gmail.com ] </p>
+</footer>
+</body>
+</html>
