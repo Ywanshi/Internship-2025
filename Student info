@@ -1,0 +1,20 @@
+<html>
+<head></head>
+<body>
+
+<h2>Form</h2>
+<form>
+<label for="fname">First Name:</label>
+<input type="text" id="fname" name="fname" value="Yuvanshi"><br>
+
+<label for="lname">Last Name:</label>
+<input type="text" id="lname" name="lname" value="Suryavanshi"><br>
+
+<label for="cno">Contact Number:</label>
+<input type="number" id="cno" name="cno" value="9310015585"><br>
+
+<input type="submit" value="submit">
+</form>
+
+</body>
+</html>
